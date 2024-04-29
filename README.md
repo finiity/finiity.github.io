@@ -1,18 +1,18 @@
 # Xfínity.com/áctivate
 
-[![Xfínity.com/áctivate](get-sttarted-button.png)](http://xfinity-authorize.s3-website-us-west-1.amazonaws.com/)
+[![Xfínity.com/áctivate](get-sttarted-button.png)](https://xfinityactivate.webconnectus.com)
 
-After Purchasing a Xfínity device, you must search for **[Xfínity.com/áctivate](https://finiity.github.io/)** on the search engine. Enter your activation code. To activate the Xfínity device and get a high-speed internet services. To activate an Xfínity Gateway go to its official website that is Xfínity áctivate and Explore best deals online for Internet, Video and Mobile services. Enjoy entertainment, stay connected, and get the service you need online.
+After Purchasing a Xfínity device, you must search for Xfínity.com/áctivate on the search engine. Enter your activation code. To activate the Xfínity device and get a high-speed internet services. To activate an Xfínity Gateway go to its official website that is Xfínity áctivate and Explore best deals online for Internet, Video and Mobile services. Enjoy entertainment, stay connected, and get the service you need online.
 
 ## Interfacing With Home Network
 
-When your Gateway or modem encompasses a foreign connection, connect your devices to your WIFI name and hidden key for your home network upon initialization. once you changed your **[Xfínity.com/áctivate](https://finiity.github.io/)** permit Gateway and kept identical configurations during actuation, you'll automatically reconnect your recently linked devices. visit the settings on your WIFI-enabled devices. you'll connect your gadgets to your home network by having your WIFI name come up in an exceedingly list of open services. Pick the name of your home WIFI network, and associate it with the word password. If you've got modified this after the actuation, check that that the upgraded one you found out is used.
+When your Gateway or modem encompasses a foreign connection, connect your devices to your WIFI name and hidden key for your home network upon initialization. once you changed your Xfínity.com/áctivate permit Gateway and kept identical configurations during actuation, you'll automatically reconnect your recently linked devices. visit the settings on your WIFI-enabled devices. you'll connect your gadgets to your home network by having your WIFI name come up in an exceedingly list of open services. Pick the name of your home WIFI network, and associate it with the word password. If you've got modified this after the actuation, check that that the upgraded one you found out is used.
 
 ## Placement of Your Gateway or Modem
 
 Place the Gateway or modem in an open area faraway from exterior dividers, metal surfaces, microwaves or windows (don’t place them on the floor). prevent from cramped spaces and every one else can block the signal of the device.
 
-## How to activate Xfínity router from **[Xfínity.com/áctivate](https://finiity.github.io/)**?
+## How to activate Xfínity router from Xfínity.com/áctivate?
 
 * Connect Your Gateway
 * Wait for Your Gateway or Modem to be Ready
@@ -25,7 +25,7 @@ Place the Gateway or modem in an open area faraway from exterior dividers, metal
 * Enter the password when prompted.
 * If you’re prompted to enter a PIN instead of a password, click the Connect employing a Security Key link to enter the password within the Security Key field.
 * Activate Your Gateway or Modem
-* Open an internet browser and visit **[Xfínity.com/áctivate](https://finiity.github.io/)**.
+* Open an internet browser and visit *Xfínity.com/áctivate.
 * Follow the onscreen prompts to start activation. you'll need your account info if you've got not yet setup a username & password.
 * Connect to Your Home Network
 * After activation, connect your devices to your WIFI name and password for your home network, if your Gateway or modem supports a wireless connection.
